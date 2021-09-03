@@ -6,5 +6,5 @@ The app has a provision to keep the records of all the students who had submitte
 The data from the feedback was retrieved as an average of all the inputs from the user.
 
 Softwares used:
-Android Studio SDK
+Android Studio SDK, 
 Xampp
